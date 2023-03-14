@@ -1,5 +1,8 @@
 _repo: Harness-making_70169
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70169-h/images/cover.jpg
 creator:
   author:
     agent_name: Hasluck, Paul N. (Paul Nooncree)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '41290'
     url: http://www.gutenberg.org/2009/agents/41290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70169#Harness-making
 gutenberg_issued: '2023-02-28'
 identifiers:
   gutenberg: '70169'
